@@ -1,0 +1,47 @@
+.cardapio{
+    color: #3f3d56;
+}
+
+.cardapio #menu h2{
+    margin-top: 30px;
+}
+
+.cardapio #menu .title{
+    color: #6c63ff;
+ } 
+
+.cardapio #menu #items h3{
+    margin-top: 30px;
+}
+.cardapio #menu #items #variations li{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+#btn-close{
+    margin-top: 50px;
+
+    height: 40px;
+    width: 150px;
+
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #6c63ff;
+
+    border: none;
+    border-radius: 5px;
+
+    margin-top: 50px;
+
+    transition: background-color 0.25s;
+}
+
+#btn-close:hover{
+    cursor: pointer;
+
+    background-color: #7a72fc;
+}
+
+
+
